@@ -14,10 +14,6 @@ assignees: ''
 ## Business Need 
 how does this task tie into the user story
 
-## User Story
-[User Story Title](url)
-
-
 ## Requirements 
  needs of task
 
