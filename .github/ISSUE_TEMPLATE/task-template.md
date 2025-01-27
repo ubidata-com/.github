@@ -5,17 +5,12 @@ about: Specific actionable detail to be accomplished that contributes to deliver
 title: "[APPLICATION] Add descriptive title"
 labels: ''
 assignees: ''
+type: "💻 Dev Task"
 
 ---
 
 ## Description
- A short description
- 
-## Business Need 
-how does this task tie into the user story
+ A short description of the task
 
 ## Requirements 
- needs of task
-
-## Dependencies 
-- [ ] if certain tasks must be done in a certain order, note here
+  - [ ] Requirement 1
